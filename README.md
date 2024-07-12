@@ -1,5 +1,4 @@
-## Hi there 👋  
-## This is Ponting_Yu
+## Hi there 👋  This is Ponting_Yu
 
 <!--
 **pt0303ff/pt0303ff** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
