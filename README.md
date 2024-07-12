@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://profile-counter.glitch.me/pt0303f/count.svg
+
+![image](https://profile-counter.glitch.me/pt0303f/count.svg)
